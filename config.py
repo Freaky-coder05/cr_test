@@ -7,14 +7,14 @@ Email = "pleaseaccept2023@gmail.com" #Your email here
 Password = "Please@331" #Your password here
 
 # --- Telegram Settings ---
-API_ID = 12345  # Replace with your API ID
-API_HASH = "" # Replace with your API Hash
-BOT_TOKEN = "" # Replace with your Bot Token
+API_ID =  24435985  # Replace with your API ID
+API_HASH = "0fec896446625478537e43906a4829f8" # Replace with your API Hash
+BOT_TOKEN = "7662286847:AAEwQ-bks3x5wt6VuAYrc2hqAmuPjfCM6lo" # Replace with your Bot Token
 
 # --- User Management & Limits ---
-sudo_users = [] # List of sudo user IDs (as integers)
-premium_users = [] # List of premium user IDs (as integers)
-AUTHORIZED_USERS = [] # List of authorized user IDs to use bot in private (as integers)
+sudo_users = [6299192020] # List of sudo user IDs (as integers)
+premium_users = [6299192020] # List of premium user IDs (as integers)
+AUTHORIZED_USERS = [6299192020] # List of authorized user IDs to use bot in private (as integers)
 
 # Limits for regular users
 REGULAR_USER_AUDIO_LIMIT = 2
@@ -265,3 +265,4 @@ LANGUAGE_NAME_TO_ISO639_2B = {
     "Zulu": "zul"
 
 }
+
