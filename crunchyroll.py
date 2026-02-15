@@ -421,7 +421,7 @@ class CrunchyrollAuth(CrunchyrollBase):
 
     def get_user_token(self, email, password):
         endpoint = "https://www.crunchyroll.com/auth/v1/token"
-        authorization_header = "Basic ZG1yeWZlc2NkYm90dWJldW56NXo6NU45aThPV2cyVmtNcm1oekNfNUNXekRLOG55SXo0QU0="
+        authorization_header = "Basic ZWE5Y21xbHRscXl6eWFuMXZkeTQ6LV9ZQ3BBRDVnc3hDaU9IWnpSTGdJQ1I4Z09XWGlsUVI="
         content_type_header = "application/x-www-form-urlencoded"
         etp_anonymous_id_header = str(uuid.uuid4())
 
